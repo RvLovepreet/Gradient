@@ -1,5 +1,5 @@
 export { default as LinearGradientComponent } from './LinearGradientComponent/LinearGradientComponent';
-
+export { default as RadiualGradientComponent } from './RadiualGradientComponent/RadiualGradientComponent';
 export { default as Brand } from './Brand/Brand';
 export { default as ButtonWithGradientBorder } from './ButtonWithGradientBorder/ButtonWithGradientBorder';
 export { default as LinearGradientButton } from './LinearGradientButton/LinearGradientButton';
